@@ -41,7 +41,7 @@ As ferramentas de IAM buscam simplificar e automatizar o controle de acesso por 
 
 ## 🔗 Source
 
-As informações contidas neste resumo foram compiladas a partir dos artigos publicados por **Mattew Kosinski** e **Amber Forrest** no **IBM Think**.
+As informações contidas neste resumo foram compiladas a partir do artigo publicado por **Mattew Kosinski** e **Amber Forrest** no **IBM Think**.
 
 * **O que é IAM (Identity and Acess Management)?:** https://www.ibm.com/br-pt/think/topics/identity-access-management
 
@@ -90,6 +90,6 @@ IAM tools seek to simplify and automate access control through various solutions
 
 ## 🔗 Source
 
-The information contained in this summary was compiled from articles published by **Matthew Kosinski** and **Amber Forrest** on **IBM Think**.
+The information contained in this summary was compiled from article published by **Matthew Kosinski** and **Amber Forrest** on **IBM Think**.
 
 * **What is IAM (Identity and Access Management)?:** https://www.ibm.com/br-pt/think/topics/identity-access-management
