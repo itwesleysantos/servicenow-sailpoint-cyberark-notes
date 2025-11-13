@@ -21,11 +21,11 @@ Conceitos que abordam o controle rigoroso de quem acessa o quê e com quais priv
 
 | Conceito/Ferramenta | Descrição do Foco | Arquivo (Notas) |
 | :--- | :--- | :--- |
-| **SailPoint** | Governança de Identidades e Administração de Acessos (IGA). | [sailpoint.md](sailpoint.md) |
-| **CyberArk** | Foco em Proteção de Acessos Privilegiados (PAM). | [cyberark.md](cyberark.md) |
-| **PAM** | Fundamentos da gestão de acesso privilegiado. | [pam.md](pam.md) |
-| **IAM** | Visão dos conceitos e pilares da gestão de identidades. | [iam.md](iam.md) |
-| **MFA** | Estudos sobre a implementação de autenticação robusta. | [mfa.md](mfa.md) |
+| **SailPoint** | Governança de Identidades e Administração de Acessos (IGA). | [sailpoint.md](sailpoint-pt.md) |
+| **CyberArk** | Foco em Proteção de Acessos Privilegiados (PAM). | [cyberark.md](cyberark-pt.md) |
+| **PAM** | Fundamentos da gestão de acesso privilegiado. | [pam.md](pam-pt.md) |
+| **IAM** | Visão dos conceitos e pilares da gestão de identidades. | [iam.md](iam-pt.md) |
+| **MFA** | Estudos sobre a implementação de autenticação robusta. | [mfa.md](mfa-pt.md) |
 
 ---
 
@@ -35,7 +35,7 @@ Foco nas plataformas utilizadas para gestão de serviços e automação.
 
 | Ferramenta | Descrição do Foco | Arquivo (Notas) |
 | :--- | :--- | :--- |
-| **ServiceNow** | Notas sobre o uso em ITSM e sua relevância para processos de segurança. | [servicenow.md](servicenow.md) |
+| **ServiceNow** | Notas sobre o uso em ITSM e sua relevância para processos de segurança. | [servicenow.md](servicenow-pt.md) |
 
 ---
 
@@ -62,11 +62,11 @@ Concepts addressing the strict control over who accesses what and with which pri
 
 | Concept/Tool | Description Focus | File (Notes) |
 | :--- | :--- | :--- |
-| **SailPoint** | Identity Governance and Access Administration (IGA). | [sailpoint.md](sailpoint.md) |
-| **CyberArk** | Focus on Privileged Access Management (PAM). | [cyberark.md](cyberark.md) |
-| **PAM** | Fundamentals of privileged access management. | [pam.md](pam.md) |
-| **IAM** | Overview of identity management concepts and pillars. | [iam.md](iam.md) |
-| **MFA** | Studies on the implementation of robust authentication. | [mfa.md](mfa.md) |
+| **SailPoint** | Identity Governance and Access Administration (IGA). | [sailpoint.md](sailpoint-en.md) |
+| **CyberArk** | Focus on Privileged Access Management (PAM). | [cyberark.md](cyberark-en.md) |
+| **PAM** | Fundamentals of privileged access management. | [pam.md](pam-en.md) |
+| **IAM** | Overview of identity management concepts and pillars. | [iam.md](iam-en.md) |
+| **MFA** | Studies on the implementation of robust authentication. | [mfa.md](mfa-en.md) |
 
 ---
 
@@ -76,4 +76,4 @@ Focus on platforms used for service management and automation.
 
 | Tool | Description Focus | File (Notes) |
 | :--- | :--- | :--- |
-| **ServiceNow** | Notes on ITSM usage and its relevance to security processes. | [servicenow.md](servicenow.md) |
+| **ServiceNow** | Notes on ITSM usage and its relevance to security processes. | [servicenow.md](servicenow-en.md) |
