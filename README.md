@@ -1,5 +1,5 @@
 ![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) Versão em Português
-# 🏦 Prevenção de Crimes Financeiros e a Segurança da Informação 🛡️
+# 🛡️ Prevenção de Crimes Financeiros e a Segurança da Informação
 
 Este repositório é o resultado de uma **busca pró-ativa e conceitual** por conhecimento sobre **Segurança da Informação (SI)** e **Gestão de Identidades e Acessos (IAM/PAM)**.
 
