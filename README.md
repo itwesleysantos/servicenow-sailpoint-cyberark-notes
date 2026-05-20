@@ -1,4 +1,3 @@
-![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) Versão em Português
 # 🛡️ Prevenção de Crimes Financeiros e a Segurança da Informação
 
 Este repositório é o resultado de uma **busca pró-ativa e conceitual** por conhecimento sobre **Segurança da Informação (SI)** e **Gestão de Identidades e Acessos (IAM/PAM)**.
@@ -36,44 +35,3 @@ Conceitos que abordam o controle rigoroso de quem acessa o quê e com quais priv
 | **IAM** | Visão dos conceitos e pilares da gestão de identidades. | [iam](iam-pt.md) |
 | **PAM** | Fundamentos da gestão de acesso privilegiado. | [pam](pam-pt.md) |
 | **MFA** | Estudos sobre a implementação de autenticação robusta. | [mfa](mfa-pt.md) |
-
----
-
-![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) English Version
-# 🏦 Financial Crime Prevention and Information Security 🛡️
-
-This repository is the result of a **proactive, conceptual search** for knowledge regarding **Information Security (IS)** and **Identity and Access Management (IAM/PAM)**.
-
----
-
-Information security is the foundation for combating and preventing financial crimes, such as **fraud, financial illicit acts**, and **cyberattacks**. The effectiveness in mitigating risks and ensuring regulatory compliance (like LGPD and Central Bank rules) depends on mastering these concepts.
-
-The objective of this material is to document my **study and interest** in tools and practices that help to **shield financial operations**, guaranteeing the **confidentiality, integrity, and availability** of data and systems.
-
----
-
-## 📚 Key Concepts and Studies
-
-Studies focused on essential security pillars:
-
-### **🛠️ SI Tools and Processes**
-
-Focus on platforms used for service management and automation.
-
-| Tool | Description Focus | File (Notes) |
-| :--- | :--- | :--- |
-| **ServiceNow** | Notes on ITSM usage and its relevance to security processes. | [servicenow](servicenow-en.md) |
-
----
-
-### **✨ Identity and Access Management (IAM/PAM)**
-
-Concepts addressing the strict control over who accesses what and with which privileges.
-
-| Concept/Tool | Description Focus | File (Notes) |
-| :--- | :--- | :--- |
-| **SailPoint** | Identity Governance and Access Administration (IGA). | [sailpoint](sailpoint-en.md) |
-| **CyberArk** | Focus on Privileged Access Management (PAM). | [cyberark](cyberark-en.md) |
-| **IAM** | Overview of identity management concepts and pillars. | [iam](iam-en.md) |
-| **PAM** | Fundamentals of privileged access management. | [pam](pam-en.md) |
-| **MFA** | Studies on the implementation of robust authentication. | [mfa](mfa-en.md) |
